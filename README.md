@@ -49,6 +49,6 @@ Solder in order of smallest to biggest:
 
 This is licensed under the [TAPR Open Hardware License](http://www.tapr.org/OHL).
 
-On the board, this is abbreviated as `TAPR OSHW`
+On the board, this is abbreviated as `TAPR OHL`
 
 © Elizabeth Rosel 2025-2026

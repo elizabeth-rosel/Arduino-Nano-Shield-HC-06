@@ -6,7 +6,7 @@
 	(paper "A5")
 	(title_block
 		(title "HC-06 Module Adapter for Arduino Nano IO Shield")
-		(date "2026-02-19")
+		(date "2026-02-28")
 		(rev "0.2.0")
 		(company "Elizabeth Rosel")
 	)
